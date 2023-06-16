@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kayla-389, or just Kay!
+- 👀 I’m interested in anime, music, gaming, manga!
+- 🌱 I’m currently learning CS50!
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me? through github!
